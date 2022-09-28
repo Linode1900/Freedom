@@ -1,6 +1,4 @@
-<!-- ![logo](_media/logo_transaprent.png) -->
-<img src=_media/logo_transaprent.png width=40% />
-<!-- ![logo](_media/logo.png) -->
+<img src=https://lzt-app-pic.oss-cn-beijing.aliyuncs.com/logo_transaprent.png width=40% />
 
 <!-- #  Freedom 脚本商城 <small>1.0.0</small> -->
 #  新时代脚本利器
@@ -11,7 +9,15 @@
 
 [官网主页](http://112.74.51.102:3000/)
 [快速开始](quickstart.md)
+
+## 扫码访问官网
+<img src=https://lzt-app-pic.oss-cn-beijing.aliyuncs.com/qrcode-site.png width=20% />
+
 <!-- 需要一个下载的扫码链接 -->
+
+## 扫码下载App
+<img src=https://lzt-app-pic.oss-cn-beijing.aliyuncs.com/qrcode-download-apk.png width=20% />
+
 
 - 新手指引
   - [开启权限](quickstart.md)
@@ -31,3 +37,4 @@
   - [为什么是Freedom](WHY_CHOOSE_FREEDOM.md)
   - [和Autojs关系](with-autojs.md)
   - [会有开放平台吗](open-sdk.md)
+
